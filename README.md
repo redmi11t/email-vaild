@@ -83,10 +83,7 @@ SMTP Check: ✅
 ```
 ---
 
-## 📡 Live Demo
 
-Check out the live application here:  
-👉 [Mail ID Validator on Streamlit](https://mailidvalidator.streamlit.app/)
 
 ---
 
