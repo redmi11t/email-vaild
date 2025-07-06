@@ -82,7 +82,9 @@ Disposable: ❌
 SMTP Check: ✅  
 ```
 ---
-
+📡 Live Demo
+Check out the live application here:
+👉 https://email-vaild-aub5pdihwmqmxldqweftkv.streamlit.app/
 
 
 ---
